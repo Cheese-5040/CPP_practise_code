@@ -12,6 +12,7 @@ public:            //access specifier, tells if the members of class is accessib
     int number;    // (variable) another attribute of the class
     string name;   // another attribute of the class
     string type;   // another attribute of the class FF
+    string babi;
     void interest(){//have a function in a class
         cout << "i like fruits" << endl;
     }
